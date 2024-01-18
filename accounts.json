@@ -1,0 +1,63 @@
+[
+  {
+    "accountId": 1,
+    "email": "john@example.com",
+    "authToken": "token123",
+    "creationDate": "2022-01-01"
+  },
+  {
+    "accountId": 2,
+    "email": "jane@example.com",
+    "authToken": "token456",
+    "creationDate": "2022-01-02"
+  },
+  {
+    "accountId": 3,
+    "email": "bob@example.com",
+    "authToken": "token789",
+    "creationDate": "2022-01-03"
+  },
+  {
+    "accountId": 4,
+    "email": "alice@example.com",
+    "authToken": "token987",
+    "creationDate": "2022-01-04"
+  },
+  {
+    "accountId": 5,
+    "email": "dave@example.com",
+    "authToken": "token654",
+    "creationDate": "2022-01-05"
+  },
+  {
+    "accountId": 6,
+    "email": "eva@example.com",
+    "authToken": "token321",
+    "creationDate": "2022-01-06"
+  },
+  {
+    "accountId": 7,
+    "email": "frank@example.com",
+    "authToken": "token999",
+    "creationDate": "2022-01-07"
+  },
+  {
+    "accountId": 8,
+    "email": "grace@example.com",
+    "authToken": "token111",
+    "creationDate": "2022-01-08"
+  },
+  {
+    "accountId": 9,
+    "email": "henry@example.com",
+    "authToken": "token222",
+    "creationDate": "2022-01-09"
+  },
+  {
+    "accountId": 10,
+    "email": "isabel@example.com",
+    "authToken": "token333",
+    "creationDate": "2022-01-10"
+  }
+]
+

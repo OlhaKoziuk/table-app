@@ -1,0 +1,3252 @@
+[
+  {
+    "profileId": 1,
+    "campaigns": [
+      {
+        "campaignId": 1100,
+        "clicks": 165,
+        "cost": "293.90",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 1101,
+        "clicks": 174,
+        "cost": "471.72",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 1102,
+        "clicks": 155,
+        "cost": "174.48",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 1103,
+        "clicks": 242,
+        "cost": "122.79",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 1104,
+        "clicks": 163,
+        "cost": "106.21",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 1105,
+        "clicks": 88,
+        "cost": "7.22",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 1106,
+        "clicks": 214,
+        "cost": "280.54",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 1107,
+        "clicks": 86,
+        "cost": "248.85",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 1108,
+        "clicks": 185,
+        "cost": "444.94",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 1109,
+        "clicks": 117,
+        "cost": "259.53",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 2,
+    "campaigns": [
+      {
+        "campaignId": 2100,
+        "clicks": 246,
+        "cost": "467.13",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 2101,
+        "clicks": 168,
+        "cost": "121.64",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 2102,
+        "clicks": 80,
+        "cost": "6.51",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 2103,
+        "clicks": 59,
+        "cost": "217.10",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 2104,
+        "clicks": 84,
+        "cost": "455.83",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 2105,
+        "clicks": 171,
+        "cost": "462.59",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 2106,
+        "clicks": 248,
+        "cost": "160.83",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 2107,
+        "clicks": 94,
+        "cost": "296.37",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 2108,
+        "clicks": 117,
+        "cost": "121.72",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 2109,
+        "clicks": 205,
+        "cost": "367.24",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 3,
+    "campaigns": [
+      {
+        "campaignId": 3100,
+        "clicks": 172,
+        "cost": "484.21",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 3101,
+        "clicks": 50,
+        "cost": "332.07",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 3102,
+        "clicks": 80,
+        "cost": "16.66",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 3103,
+        "clicks": 149,
+        "cost": "188.80",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 3104,
+        "clicks": 236,
+        "cost": "1.21",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 3105,
+        "clicks": 154,
+        "cost": "464.55",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 3106,
+        "clicks": 121,
+        "cost": "419.90",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 3107,
+        "clicks": 66,
+        "cost": "49.29",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 3108,
+        "clicks": 201,
+        "cost": "59.48",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 3109,
+        "clicks": 185,
+        "cost": "390.30",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 4,
+    "campaigns": [
+      {
+        "campaignId": 4100,
+        "clicks": 200,
+        "cost": "118.53",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 4101,
+        "clicks": 168,
+        "cost": "19.85",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 4102,
+        "clicks": 98,
+        "cost": "386.97",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 4103,
+        "clicks": 213,
+        "cost": "467.27",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 4104,
+        "clicks": 151,
+        "cost": "25.23",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 4105,
+        "clicks": 242,
+        "cost": "187.54",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 4106,
+        "clicks": 88,
+        "cost": "440.04",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 4107,
+        "clicks": 94,
+        "cost": "380.82",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 4108,
+        "clicks": 194,
+        "cost": "174.91",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 4109,
+        "clicks": 101,
+        "cost": "381.63",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 5,
+    "campaigns": [
+      {
+        "campaignId": 5100,
+        "clicks": 122,
+        "cost": "11.81",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 5101,
+        "clicks": 233,
+        "cost": "438.34",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 5102,
+        "clicks": 82,
+        "cost": "453.73",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 5103,
+        "clicks": 79,
+        "cost": "173.42",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 5104,
+        "clicks": 126,
+        "cost": "432.12",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 5105,
+        "clicks": 105,
+        "cost": "454.75",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 5106,
+        "clicks": 192,
+        "cost": "482.64",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 5107,
+        "clicks": 211,
+        "cost": "278.62",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 5108,
+        "clicks": 83,
+        "cost": "20.51",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 5109,
+        "clicks": 97,
+        "cost": "482.69",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 6,
+    "campaigns": [
+      {
+        "campaignId": 6100,
+        "clicks": 74,
+        "cost": "278.49",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 6101,
+        "clicks": 232,
+        "cost": "55.15",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 6102,
+        "clicks": 199,
+        "cost": "168.68",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 6103,
+        "clicks": 86,
+        "cost": "170.20",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 6104,
+        "clicks": 200,
+        "cost": "44.22",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 6105,
+        "clicks": 92,
+        "cost": "21.47",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 6106,
+        "clicks": 74,
+        "cost": "166.77",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 6107,
+        "clicks": 179,
+        "cost": "222.37",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 6108,
+        "clicks": 71,
+        "cost": "372.75",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 6109,
+        "clicks": 249,
+        "cost": "6.83",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 7,
+    "campaigns": [
+      {
+        "campaignId": 7100,
+        "clicks": 103,
+        "cost": "486.61",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 7101,
+        "clicks": 238,
+        "cost": "96.99",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 7102,
+        "clicks": 242,
+        "cost": "167.53",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 7103,
+        "clicks": 91,
+        "cost": "434.87",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 7104,
+        "clicks": 67,
+        "cost": "250.78",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 7105,
+        "clicks": 143,
+        "cost": "495.39",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 7106,
+        "clicks": 226,
+        "cost": "468.66",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 7107,
+        "clicks": 219,
+        "cost": "327.23",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 7108,
+        "clicks": 116,
+        "cost": "178.43",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 7109,
+        "clicks": 172,
+        "cost": "60.54",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 8,
+    "campaigns": [
+      {
+        "campaignId": 8100,
+        "clicks": 143,
+        "cost": "257.40",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 8101,
+        "clicks": 153,
+        "cost": "424.00",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 8102,
+        "clicks": 89,
+        "cost": "410.03",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 8103,
+        "clicks": 209,
+        "cost": "177.12",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 8104,
+        "clicks": 119,
+        "cost": "389.69",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 8105,
+        "clicks": 150,
+        "cost": "69.17",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 8106,
+        "clicks": 238,
+        "cost": "0.06",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 8107,
+        "clicks": 176,
+        "cost": "165.52",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 8108,
+        "clicks": 91,
+        "cost": "328.40",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 8109,
+        "clicks": 160,
+        "cost": "100.35",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 9,
+    "campaigns": [
+      {
+        "campaignId": 9100,
+        "clicks": 148,
+        "cost": "288.26",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 9101,
+        "clicks": 181,
+        "cost": "347.44",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 9102,
+        "clicks": 94,
+        "cost": "50.81",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 9103,
+        "clicks": 240,
+        "cost": "2.07",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 9104,
+        "clicks": 173,
+        "cost": "79.82",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 9105,
+        "clicks": 162,
+        "cost": "131.53",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 9106,
+        "clicks": 245,
+        "cost": "193.59",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 9107,
+        "clicks": 172,
+        "cost": "112.81",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 9108,
+        "clicks": 59,
+        "cost": "38.11",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 9109,
+        "clicks": 185,
+        "cost": "130.13",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 10,
+    "campaigns": [
+      {
+        "campaignId": 10100,
+        "clicks": 111,
+        "cost": "232.65",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 10101,
+        "clicks": 80,
+        "cost": "497.90",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 10102,
+        "clicks": 193,
+        "cost": "242.68",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 10103,
+        "clicks": 165,
+        "cost": "226.43",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 10104,
+        "clicks": 66,
+        "cost": "95.13",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 10105,
+        "clicks": 171,
+        "cost": "53.10",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 10106,
+        "clicks": 55,
+        "cost": "352.43",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 10107,
+        "clicks": 100,
+        "cost": "90.20",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 10108,
+        "clicks": 128,
+        "cost": "127.98",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 10109,
+        "clicks": 236,
+        "cost": "54.23",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 11,
+    "campaigns": [
+      {
+        "campaignId": 11100,
+        "clicks": 70,
+        "cost": "378.10",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 11101,
+        "clicks": 145,
+        "cost": "183.68",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 11102,
+        "clicks": 189,
+        "cost": "321.80",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 11103,
+        "clicks": 61,
+        "cost": "170.15",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 11104,
+        "clicks": 81,
+        "cost": "109.29",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 11105,
+        "clicks": 209,
+        "cost": "234.32",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 11106,
+        "clicks": 187,
+        "cost": "496.16",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 11107,
+        "clicks": 77,
+        "cost": "133.14",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 11108,
+        "clicks": 98,
+        "cost": "406.48",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 11109,
+        "clicks": 91,
+        "cost": "124.88",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 12,
+    "campaigns": [
+      {
+        "campaignId": 12100,
+        "clicks": 126,
+        "cost": "131.49",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 12101,
+        "clicks": 185,
+        "cost": "441.64",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 12102,
+        "clicks": 61,
+        "cost": "1.33",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 12103,
+        "clicks": 94,
+        "cost": "69.82",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 12104,
+        "clicks": 62,
+        "cost": "134.96",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 12105,
+        "clicks": 185,
+        "cost": "309.11",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 12106,
+        "clicks": 108,
+        "cost": "109.19",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 12107,
+        "clicks": 216,
+        "cost": "257.89",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 12108,
+        "clicks": 199,
+        "cost": "315.01",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 12109,
+        "clicks": 245,
+        "cost": "164.75",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 13,
+    "campaigns": [
+      {
+        "campaignId": 13100,
+        "clicks": 220,
+        "cost": "469.61",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 13101,
+        "clicks": 78,
+        "cost": "55.00",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 13102,
+        "clicks": 142,
+        "cost": "92.40",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 13103,
+        "clicks": 223,
+        "cost": "140.36",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 13104,
+        "clicks": 85,
+        "cost": "73.06",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 13105,
+        "clicks": 102,
+        "cost": "186.37",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 13106,
+        "clicks": 184,
+        "cost": "379.21",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 13107,
+        "clicks": 50,
+        "cost": "132.53",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 13108,
+        "clicks": 224,
+        "cost": "342.02",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 13109,
+        "clicks": 125,
+        "cost": "291.61",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 14,
+    "campaigns": [
+      {
+        "campaignId": 14100,
+        "clicks": 87,
+        "cost": "495.56",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 14101,
+        "clicks": 196,
+        "cost": "473.51",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 14102,
+        "clicks": 150,
+        "cost": "43.57",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 14103,
+        "clicks": 108,
+        "cost": "342.93",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 14104,
+        "clicks": 69,
+        "cost": "227.95",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 14105,
+        "clicks": 210,
+        "cost": "66.18",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 14106,
+        "clicks": 77,
+        "cost": "279.78",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 14107,
+        "clicks": 232,
+        "cost": "89.93",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 14108,
+        "clicks": 142,
+        "cost": "139.16",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 14109,
+        "clicks": 179,
+        "cost": "61.76",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 15,
+    "campaigns": [
+      {
+        "campaignId": 15100,
+        "clicks": 182,
+        "cost": "324.18",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 15101,
+        "clicks": 201,
+        "cost": "460.45",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 15102,
+        "clicks": 89,
+        "cost": "124.99",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 15103,
+        "clicks": 146,
+        "cost": "100.98",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 15104,
+        "clicks": 225,
+        "cost": "156.82",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 15105,
+        "clicks": 77,
+        "cost": "158.54",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 15106,
+        "clicks": 77,
+        "cost": "413.62",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 15107,
+        "clicks": 63,
+        "cost": "296.00",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 15108,
+        "clicks": 221,
+        "cost": "335.43",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 15109,
+        "clicks": 159,
+        "cost": "40.47",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 16,
+    "campaigns": [
+      {
+        "campaignId": 16100,
+        "clicks": 159,
+        "cost": "249.47",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 16101,
+        "clicks": 144,
+        "cost": "442.26",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 16102,
+        "clicks": 133,
+        "cost": "484.25",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 16103,
+        "clicks": 50,
+        "cost": "492.20",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 16104,
+        "clicks": 52,
+        "cost": "92.69",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 16105,
+        "clicks": 132,
+        "cost": "322.62",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 16106,
+        "clicks": 99,
+        "cost": "31.74",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 16107,
+        "clicks": 248,
+        "cost": "289.14",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 16108,
+        "clicks": 218,
+        "cost": "191.61",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 16109,
+        "clicks": 99,
+        "cost": "124.37",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 17,
+    "campaigns": [
+      {
+        "campaignId": 17100,
+        "clicks": 90,
+        "cost": "447.33",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 17101,
+        "clicks": 139,
+        "cost": "403.24",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 17102,
+        "clicks": 61,
+        "cost": "305.69",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 17103,
+        "clicks": 228,
+        "cost": "77.93",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 17104,
+        "clicks": 202,
+        "cost": "277.12",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 17105,
+        "clicks": 50,
+        "cost": "21.19",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 17106,
+        "clicks": 232,
+        "cost": "428.81",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 17107,
+        "clicks": 67,
+        "cost": "407.87",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 17108,
+        "clicks": 227,
+        "cost": "376.16",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 17109,
+        "clicks": 135,
+        "cost": "88.70",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 18,
+    "campaigns": [
+      {
+        "campaignId": 18100,
+        "clicks": 170,
+        "cost": "136.03",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 18101,
+        "clicks": 211,
+        "cost": "92.07",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 18102,
+        "clicks": 159,
+        "cost": "47.87",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 18103,
+        "clicks": 170,
+        "cost": "198.20",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 18104,
+        "clicks": 143,
+        "cost": "454.54",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 18105,
+        "clicks": 158,
+        "cost": "89.06",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 18106,
+        "clicks": 194,
+        "cost": "149.87",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 18107,
+        "clicks": 122,
+        "cost": "448.28",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 18108,
+        "clicks": 153,
+        "cost": "386.68",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 18109,
+        "clicks": 147,
+        "cost": "191.57",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 19,
+    "campaigns": [
+      {
+        "campaignId": 19100,
+        "clicks": 235,
+        "cost": "317.45",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 19101,
+        "clicks": 216,
+        "cost": "448.29",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 19102,
+        "clicks": 223,
+        "cost": "184.50",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 19103,
+        "clicks": 190,
+        "cost": "189.33",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 19104,
+        "clicks": 102,
+        "cost": "219.29",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 19105,
+        "clicks": 183,
+        "cost": "237.17",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 19106,
+        "clicks": 154,
+        "cost": "379.86",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 19107,
+        "clicks": 98,
+        "cost": "421.17",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 19108,
+        "clicks": 149,
+        "cost": "33.53",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 19109,
+        "clicks": 196,
+        "cost": "189.27",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 20,
+    "campaigns": [
+      {
+        "campaignId": 20100,
+        "clicks": 218,
+        "cost": "35.11",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 20101,
+        "clicks": 153,
+        "cost": "198.90",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 20102,
+        "clicks": 77,
+        "cost": "359.35",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 20103,
+        "clicks": 176,
+        "cost": "177.09",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 20104,
+        "clicks": 207,
+        "cost": "14.15",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 20105,
+        "clicks": 83,
+        "cost": "371.15",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 20106,
+        "clicks": 61,
+        "cost": "476.41",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 20107,
+        "clicks": 246,
+        "cost": "416.39",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 20108,
+        "clicks": 173,
+        "cost": "284.49",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 20109,
+        "clicks": 78,
+        "cost": "52.92",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 21,
+    "campaigns": [
+      {
+        "campaignId": 21100,
+        "clicks": 150,
+        "cost": "289.27",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 21101,
+        "clicks": 154,
+        "cost": "225.26",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 21102,
+        "clicks": 50,
+        "cost": "336.39",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 21103,
+        "clicks": 162,
+        "cost": "0.95",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 21104,
+        "clicks": 136,
+        "cost": "383.89",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 21105,
+        "clicks": 98,
+        "cost": "314.09",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 21106,
+        "clicks": 217,
+        "cost": "290.47",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 21107,
+        "clicks": 224,
+        "cost": "27.97",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 21108,
+        "clicks": 136,
+        "cost": "359.62",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 21109,
+        "clicks": 113,
+        "cost": "113.80",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 22,
+    "campaigns": [
+      {
+        "campaignId": 22100,
+        "clicks": 94,
+        "cost": "54.37",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 22101,
+        "clicks": 69,
+        "cost": "235.07",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 22102,
+        "clicks": 81,
+        "cost": "391.85",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 22103,
+        "clicks": 227,
+        "cost": "75.43",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 22104,
+        "clicks": 57,
+        "cost": "24.12",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 22105,
+        "clicks": 68,
+        "cost": "360.02",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 22106,
+        "clicks": 170,
+        "cost": "12.56",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 22107,
+        "clicks": 174,
+        "cost": "457.84",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 22108,
+        "clicks": 211,
+        "cost": "45.19",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 22109,
+        "clicks": 222,
+        "cost": "466.66",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 23,
+    "campaigns": [
+      {
+        "campaignId": 23100,
+        "clicks": 123,
+        "cost": "36.52",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 23101,
+        "clicks": 189,
+        "cost": "456.49",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 23102,
+        "clicks": 63,
+        "cost": "230.51",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 23103,
+        "clicks": 175,
+        "cost": "117.16",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 23104,
+        "clicks": 203,
+        "cost": "362.52",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 23105,
+        "clicks": 97,
+        "cost": "192.66",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 23106,
+        "clicks": 213,
+        "cost": "87.69",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 23107,
+        "clicks": 171,
+        "cost": "243.69",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 23108,
+        "clicks": 226,
+        "cost": "373.11",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 23109,
+        "clicks": 160,
+        "cost": "437.60",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 24,
+    "campaigns": [
+      {
+        "campaignId": 24100,
+        "clicks": 224,
+        "cost": "57.82",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 24101,
+        "clicks": 53,
+        "cost": "236.88",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 24102,
+        "clicks": 120,
+        "cost": "488.31",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 24103,
+        "clicks": 106,
+        "cost": "34.75",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 24104,
+        "clicks": 224,
+        "cost": "262.00",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 24105,
+        "clicks": 128,
+        "cost": "69.94",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 24106,
+        "clicks": 106,
+        "cost": "73.35",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 24107,
+        "clicks": 174,
+        "cost": "61.46",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 24108,
+        "clicks": 71,
+        "cost": "94.12",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 24109,
+        "clicks": 217,
+        "cost": "37.41",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 25,
+    "campaigns": [
+      {
+        "campaignId": 25100,
+        "clicks": 217,
+        "cost": "23.86",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 25101,
+        "clicks": 123,
+        "cost": "172.34",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 25102,
+        "clicks": 114,
+        "cost": "97.63",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 25103,
+        "clicks": 172,
+        "cost": "240.50",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 25104,
+        "clicks": 216,
+        "cost": "19.59",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 25105,
+        "clicks": 219,
+        "cost": "483.37",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 25106,
+        "clicks": 90,
+        "cost": "326.03",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 25107,
+        "clicks": 93,
+        "cost": "408.38",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 25108,
+        "clicks": 207,
+        "cost": "285.56",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 25109,
+        "clicks": 221,
+        "cost": "402.07",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 26,
+    "campaigns": [
+      {
+        "campaignId": 26100,
+        "clicks": 184,
+        "cost": "6.02",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 26101,
+        "clicks": 102,
+        "cost": "283.99",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 26102,
+        "clicks": 202,
+        "cost": "269.40",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 26103,
+        "clicks": 237,
+        "cost": "346.53",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 26104,
+        "clicks": 141,
+        "cost": "317.90",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 26105,
+        "clicks": 212,
+        "cost": "452.35",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 26106,
+        "clicks": 110,
+        "cost": "104.82",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 26107,
+        "clicks": 198,
+        "cost": "137.15",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 26108,
+        "clicks": 109,
+        "cost": "198.74",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 26109,
+        "clicks": 97,
+        "cost": "215.92",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 27,
+    "campaigns": [
+      {
+        "campaignId": 27100,
+        "clicks": 239,
+        "cost": "389.10",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 27101,
+        "clicks": 86,
+        "cost": "405.24",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 27102,
+        "clicks": 104,
+        "cost": "317.08",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 27103,
+        "clicks": 75,
+        "cost": "69.95",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 27104,
+        "clicks": 247,
+        "cost": "457.10",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 27105,
+        "clicks": 184,
+        "cost": "177.10",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 27106,
+        "clicks": 185,
+        "cost": "230.29",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 27107,
+        "clicks": 204,
+        "cost": "199.06",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 27108,
+        "clicks": 131,
+        "cost": "396.62",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 27109,
+        "clicks": 166,
+        "cost": "406.52",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 28,
+    "campaigns": [
+      {
+        "campaignId": 28100,
+        "clicks": 151,
+        "cost": "406.39",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 28101,
+        "clicks": 126,
+        "cost": "44.84",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 28102,
+        "clicks": 123,
+        "cost": "435.49",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 28103,
+        "clicks": 135,
+        "cost": "204.22",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 28104,
+        "clicks": 191,
+        "cost": "92.42",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 28105,
+        "clicks": 189,
+        "cost": "219.04",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 28106,
+        "clicks": 136,
+        "cost": "154.32",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 28107,
+        "clicks": 104,
+        "cost": "362.54",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 28108,
+        "clicks": 239,
+        "cost": "495.42",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 28109,
+        "clicks": 107,
+        "cost": "189.00",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 29,
+    "campaigns": [
+      {
+        "campaignId": 29100,
+        "clicks": 245,
+        "cost": "497.17",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 29101,
+        "clicks": 131,
+        "cost": "140.33",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 29102,
+        "clicks": 226,
+        "cost": "267.15",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 29103,
+        "clicks": 127,
+        "cost": "351.39",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 29104,
+        "clicks": 120,
+        "cost": "185.05",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 29105,
+        "clicks": 75,
+        "cost": "151.33",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 29106,
+        "clicks": 64,
+        "cost": "327.84",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 29107,
+        "clicks": 220,
+        "cost": "267.56",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 29108,
+        "clicks": 63,
+        "cost": "28.43",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 29109,
+        "clicks": 73,
+        "cost": "205.28",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 30,
+    "campaigns": [
+      {
+        "campaignId": 30100,
+        "clicks": 91,
+        "cost": "309.89",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 30101,
+        "clicks": 55,
+        "cost": "136.91",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 30102,
+        "clicks": 234,
+        "cost": "42.65",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 30103,
+        "clicks": 63,
+        "cost": "292.26",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 30104,
+        "clicks": 166,
+        "cost": "410.59",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 30105,
+        "clicks": 246,
+        "cost": "488.26",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 30106,
+        "clicks": 60,
+        "cost": "184.24",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 30107,
+        "clicks": 110,
+        "cost": "62.63",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 30108,
+        "clicks": 170,
+        "cost": "350.85",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 30109,
+        "clicks": 146,
+        "cost": "272.08",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 31,
+    "campaigns": [
+      {
+        "campaignId": 31100,
+        "clicks": 125,
+        "cost": "197.58",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 31101,
+        "clicks": 230,
+        "cost": "396.60",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 31102,
+        "clicks": 81,
+        "cost": "425.33",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 31103,
+        "clicks": 87,
+        "cost": "61.67",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 31104,
+        "clicks": 124,
+        "cost": "395.52",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 31105,
+        "clicks": 232,
+        "cost": "369.69",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 31106,
+        "clicks": 135,
+        "cost": "426.44",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 31107,
+        "clicks": 72,
+        "cost": "494.17",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 31108,
+        "clicks": 236,
+        "cost": "63.48",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 31109,
+        "clicks": 203,
+        "cost": "202.64",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 32,
+    "campaigns": [
+      {
+        "campaignId": 32100,
+        "clicks": 147,
+        "cost": "234.16",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 32101,
+        "clicks": 116,
+        "cost": "5.70",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 32102,
+        "clicks": 128,
+        "cost": "214.51",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 32103,
+        "clicks": 221,
+        "cost": "190.82",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 32104,
+        "clicks": 68,
+        "cost": "225.18",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 32105,
+        "clicks": 91,
+        "cost": "353.51",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 32106,
+        "clicks": 196,
+        "cost": "177.34",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 32107,
+        "clicks": 164,
+        "cost": "302.55",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 32108,
+        "clicks": 54,
+        "cost": "377.36",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 32109,
+        "clicks": 154,
+        "cost": "88.57",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 33,
+    "campaigns": [
+      {
+        "campaignId": 33100,
+        "clicks": 83,
+        "cost": "178.45",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 33101,
+        "clicks": 54,
+        "cost": "479.38",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 33102,
+        "clicks": 188,
+        "cost": "278.19",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 33103,
+        "clicks": 176,
+        "cost": "462.18",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 33104,
+        "clicks": 138,
+        "cost": "280.65",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 33105,
+        "clicks": 194,
+        "cost": "355.98",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 33106,
+        "clicks": 179,
+        "cost": "337.44",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 33107,
+        "clicks": 222,
+        "cost": "379.60",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 33108,
+        "clicks": 199,
+        "cost": "398.06",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 33109,
+        "clicks": 93,
+        "cost": "315.61",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 34,
+    "campaigns": [
+      {
+        "campaignId": 34100,
+        "clicks": 187,
+        "cost": "78.47",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 34101,
+        "clicks": 127,
+        "cost": "336.39",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 34102,
+        "clicks": 228,
+        "cost": "94.32",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 34103,
+        "clicks": 174,
+        "cost": "299.24",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 34104,
+        "clicks": 96,
+        "cost": "193.26",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 34105,
+        "clicks": 124,
+        "cost": "55.13",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 34106,
+        "clicks": 243,
+        "cost": "227.84",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 34107,
+        "clicks": 81,
+        "cost": "138.70",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 34108,
+        "clicks": 247,
+        "cost": "214.50",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 34109,
+        "clicks": 134,
+        "cost": "232.34",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 35,
+    "campaigns": [
+      {
+        "campaignId": 35100,
+        "clicks": 171,
+        "cost": "292.94",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 35101,
+        "clicks": 59,
+        "cost": "413.14",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 35102,
+        "clicks": 85,
+        "cost": "139.32",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 35103,
+        "clicks": 220,
+        "cost": "151.53",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 35104,
+        "clicks": 139,
+        "cost": "453.04",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 35105,
+        "clicks": 122,
+        "cost": "146.58",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 35106,
+        "clicks": 153,
+        "cost": "165.01",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 35107,
+        "clicks": 177,
+        "cost": "275.05",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 35108,
+        "clicks": 119,
+        "cost": "427.23",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 35109,
+        "clicks": 167,
+        "cost": "429.16",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 36,
+    "campaigns": [
+      {
+        "campaignId": 36100,
+        "clicks": 62,
+        "cost": "172.70",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 36101,
+        "clicks": 60,
+        "cost": "259.17",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 36102,
+        "clicks": 130,
+        "cost": "61.76",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 36103,
+        "clicks": 136,
+        "cost": "428.10",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 36104,
+        "clicks": 92,
+        "cost": "164.72",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 36105,
+        "clicks": 176,
+        "cost": "113.32",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 36106,
+        "clicks": 83,
+        "cost": "63.18",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 36107,
+        "clicks": 205,
+        "cost": "112.96",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 36108,
+        "clicks": 164,
+        "cost": "298.50",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 36109,
+        "clicks": 70,
+        "cost": "117.55",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 37,
+    "campaigns": [
+      {
+        "campaignId": 37100,
+        "clicks": 175,
+        "cost": "341.06",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 37101,
+        "clicks": 237,
+        "cost": "16.87",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 37102,
+        "clicks": 103,
+        "cost": "387.57",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 37103,
+        "clicks": 116,
+        "cost": "141.90",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 37104,
+        "clicks": 147,
+        "cost": "34.32",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 37105,
+        "clicks": 59,
+        "cost": "413.26",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 37106,
+        "clicks": 205,
+        "cost": "141.72",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 37107,
+        "clicks": 160,
+        "cost": "149.04",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 37108,
+        "clicks": 164,
+        "cost": "195.29",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 37109,
+        "clicks": 180,
+        "cost": "133.74",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 38,
+    "campaigns": [
+      {
+        "campaignId": 38100,
+        "clicks": 170,
+        "cost": "135.38",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 38101,
+        "clicks": 179,
+        "cost": "461.70",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 38102,
+        "clicks": 129,
+        "cost": "412.51",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 38103,
+        "clicks": 236,
+        "cost": "271.05",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 38104,
+        "clicks": 126,
+        "cost": "67.19",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 38105,
+        "clicks": 177,
+        "cost": "281.69",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 38106,
+        "clicks": 55,
+        "cost": "385.35",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 38107,
+        "clicks": 50,
+        "cost": "240.12",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 38108,
+        "clicks": 208,
+        "cost": "475.61",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 38109,
+        "clicks": 100,
+        "cost": "84.55",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 39,
+    "campaigns": [
+      {
+        "campaignId": 39100,
+        "clicks": 209,
+        "cost": "165.11",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 39101,
+        "clicks": 130,
+        "cost": "298.79",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 39102,
+        "clicks": 65,
+        "cost": "38.86",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 39103,
+        "clicks": 146,
+        "cost": "212.56",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 39104,
+        "clicks": 177,
+        "cost": "184.74",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 39105,
+        "clicks": 115,
+        "cost": "311.08",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 39106,
+        "clicks": 151,
+        "cost": "368.70",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 39107,
+        "clicks": 87,
+        "cost": "310.77",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 39108,
+        "clicks": 139,
+        "cost": "229.00",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 39109,
+        "clicks": 170,
+        "cost": "64.00",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 40,
+    "campaigns": [
+      {
+        "campaignId": 40100,
+        "clicks": 187,
+        "cost": "36.13",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 40101,
+        "clicks": 220,
+        "cost": "244.01",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 40102,
+        "clicks": 177,
+        "cost": "68.64",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 40103,
+        "clicks": 193,
+        "cost": "304.28",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 40104,
+        "clicks": 115,
+        "cost": "75.74",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 40105,
+        "clicks": 67,
+        "cost": "239.95",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 40106,
+        "clicks": 180,
+        "cost": "388.47",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 40107,
+        "clicks": 160,
+        "cost": "387.66",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 40108,
+        "clicks": 76,
+        "cost": "487.39",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 40109,
+        "clicks": 180,
+        "cost": "443.81",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 41,
+    "campaigns": [
+      {
+        "campaignId": 41100,
+        "clicks": 187,
+        "cost": "434.11",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 41101,
+        "clicks": 208,
+        "cost": "341.77",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 41102,
+        "clicks": 95,
+        "cost": "449.93",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 41103,
+        "clicks": 238,
+        "cost": "315.38",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 41104,
+        "clicks": 133,
+        "cost": "172.73",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 41105,
+        "clicks": 220,
+        "cost": "188.67",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 41106,
+        "clicks": 176,
+        "cost": "293.99",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 41107,
+        "clicks": 136,
+        "cost": "337.68",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 41108,
+        "clicks": 159,
+        "cost": "166.32",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 41109,
+        "clicks": 197,
+        "cost": "138.82",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 42,
+    "campaigns": [
+      {
+        "campaignId": 42100,
+        "clicks": 166,
+        "cost": "49.78",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 42101,
+        "clicks": 139,
+        "cost": "12.29",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 42102,
+        "clicks": 158,
+        "cost": "260.34",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 42103,
+        "clicks": 220,
+        "cost": "238.82",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 42104,
+        "clicks": 201,
+        "cost": "448.11",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 42105,
+        "clicks": 74,
+        "cost": "201.20",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 42106,
+        "clicks": 111,
+        "cost": "242.02",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 42107,
+        "clicks": 244,
+        "cost": "99.27",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 42108,
+        "clicks": 197,
+        "cost": "396.41",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 42109,
+        "clicks": 238,
+        "cost": "48.05",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 43,
+    "campaigns": [
+      {
+        "campaignId": 43100,
+        "clicks": 169,
+        "cost": "35.37",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 43101,
+        "clicks": 126,
+        "cost": "287.56",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 43102,
+        "clicks": 237,
+        "cost": "58.13",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 43103,
+        "clicks": 213,
+        "cost": "64.66",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 43104,
+        "clicks": 51,
+        "cost": "404.56",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 43105,
+        "clicks": 174,
+        "cost": "165.73",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 43106,
+        "clicks": 60,
+        "cost": "429.32",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 43107,
+        "clicks": 150,
+        "cost": "156.29",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 43108,
+        "clicks": 229,
+        "cost": "368.94",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 43109,
+        "clicks": 69,
+        "cost": "429.87",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 44,
+    "campaigns": [
+      {
+        "campaignId": 44100,
+        "clicks": 64,
+        "cost": "22.26",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 44101,
+        "clicks": 183,
+        "cost": "280.26",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 44102,
+        "clicks": 223,
+        "cost": "481.48",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 44103,
+        "clicks": 112,
+        "cost": "20.14",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 44104,
+        "clicks": 93,
+        "cost": "0.04",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 44105,
+        "clicks": 72,
+        "cost": "355.77",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 44106,
+        "clicks": 201,
+        "cost": "304.58",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 44107,
+        "clicks": 215,
+        "cost": "256.55",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 44108,
+        "clicks": 79,
+        "cost": "51.40",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 44109,
+        "clicks": 67,
+        "cost": "329.90",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 45,
+    "campaigns": [
+      {
+        "campaignId": 45100,
+        "clicks": 71,
+        "cost": "458.62",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 45101,
+        "clicks": 227,
+        "cost": "12.00",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 45102,
+        "clicks": 164,
+        "cost": "310.98",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 45103,
+        "clicks": 198,
+        "cost": "94.11",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 45104,
+        "clicks": 221,
+        "cost": "216.92",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 45105,
+        "clicks": 90,
+        "cost": "114.86",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 45106,
+        "clicks": 239,
+        "cost": "464.86",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 45107,
+        "clicks": 248,
+        "cost": "50.94",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 45108,
+        "clicks": 57,
+        "cost": "179.74",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 45109,
+        "clicks": 194,
+        "cost": "363.84",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 46,
+    "campaigns": [
+      {
+        "campaignId": 46100,
+        "clicks": 232,
+        "cost": "499.04",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 46101,
+        "clicks": 210,
+        "cost": "72.80",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 46102,
+        "clicks": 61,
+        "cost": "491.09",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 46103,
+        "clicks": 155,
+        "cost": "244.85",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 46104,
+        "clicks": 137,
+        "cost": "62.10",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 46105,
+        "clicks": 235,
+        "cost": "118.61",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 46106,
+        "clicks": 221,
+        "cost": "288.94",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 46107,
+        "clicks": 59,
+        "cost": "202.50",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 46108,
+        "clicks": 151,
+        "cost": "151.61",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 46109,
+        "clicks": 60,
+        "cost": "100.63",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 47,
+    "campaigns": [
+      {
+        "campaignId": 47100,
+        "clicks": 234,
+        "cost": "170.76",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 47101,
+        "clicks": 175,
+        "cost": "453.63",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 47102,
+        "clicks": 230,
+        "cost": "233.49",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 47103,
+        "clicks": 186,
+        "cost": "181.27",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 47104,
+        "clicks": 79,
+        "cost": "413.28",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 47105,
+        "clicks": 93,
+        "cost": "403.17",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 47106,
+        "clicks": 228,
+        "cost": "97.42",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 47107,
+        "clicks": 66,
+        "cost": "109.60",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 47108,
+        "clicks": 70,
+        "cost": "174.51",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 47109,
+        "clicks": 153,
+        "cost": "185.30",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 48,
+    "campaigns": [
+      {
+        "campaignId": 48100,
+        "clicks": 233,
+        "cost": "297.23",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 48101,
+        "clicks": 113,
+        "cost": "41.96",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 48102,
+        "clicks": 215,
+        "cost": "332.75",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 48103,
+        "clicks": 204,
+        "cost": "9.02",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 48104,
+        "clicks": 226,
+        "cost": "86.00",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 48105,
+        "clicks": 166,
+        "cost": "117.68",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 48106,
+        "clicks": 66,
+        "cost": "363.74",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 48107,
+        "clicks": 76,
+        "cost": "238.65",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 48108,
+        "clicks": 236,
+        "cost": "417.09",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 48109,
+        "clicks": 133,
+        "cost": "461.49",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 49,
+    "campaigns": [
+      {
+        "campaignId": 49100,
+        "clicks": 174,
+        "cost": "487.16",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 49101,
+        "clicks": 120,
+        "cost": "389.11",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 49102,
+        "clicks": 239,
+        "cost": "61.88",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 49103,
+        "clicks": 238,
+        "cost": "373.20",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 49104,
+        "clicks": 126,
+        "cost": "341.06",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 49105,
+        "clicks": 197,
+        "cost": "261.78",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 49106,
+        "clicks": 78,
+        "cost": "286.05",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 49107,
+        "clicks": 185,
+        "cost": "14.53",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 49108,
+        "clicks": 59,
+        "cost": "316.69",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 49109,
+        "clicks": 229,
+        "cost": "14.18",
+        "date": "2022-02-010"
+      }
+    ]
+  },
+  {
+    "profileId": 50,
+    "campaigns": [
+      {
+        "campaignId": 50100,
+        "clicks": 78,
+        "cost": "489.69",
+        "date": "2022-02-01"
+      },
+      {
+        "campaignId": 50101,
+        "clicks": 75,
+        "cost": "488.97",
+        "date": "2022-02-02"
+      },
+      {
+        "campaignId": 50102,
+        "clicks": 94,
+        "cost": "99.40",
+        "date": "2022-02-03"
+      },
+      {
+        "campaignId": 50103,
+        "clicks": 140,
+        "cost": "424.52",
+        "date": "2022-02-04"
+      },
+      {
+        "campaignId": 50104,
+        "clicks": 124,
+        "cost": "446.89",
+        "date": "2022-02-05"
+      },
+      {
+        "campaignId": 50105,
+        "clicks": 228,
+        "cost": "481.41",
+        "date": "2022-02-06"
+      },
+      {
+        "campaignId": 50106,
+        "clicks": 79,
+        "cost": "15.05",
+        "date": "2022-02-07"
+      },
+      {
+        "campaignId": 50107,
+        "clicks": 244,
+        "cost": "258.27",
+        "date": "2022-02-08"
+      },
+      {
+        "campaignId": 50108,
+        "clicks": 70,
+        "cost": "87.38",
+        "date": "2022-02-09"
+      },
+      {
+        "campaignId": 50109,
+        "clicks": 208,
+        "cost": "359.72",
+        "date": "2022-02-010"
+      }
+    ]
+  }
+]

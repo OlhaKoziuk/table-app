@@ -1,6 +1,7 @@
 {
   "name": "table-app",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -10,8 +11,13 @@
     "@types/node": "^16.18.71",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
+    "bootstrap": "^5.3.2",
+    "faker": "^6.6.6",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-bootstrap-pagination": "^1.0.7",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
@@ -20,7 +26,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
